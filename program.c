@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-	printf("Hello World Change\n");
+	printf("Change from git_lab2\n");
 	return 0;
 }
